@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brighousetreesurgeons.github.io/sitemap.xml
